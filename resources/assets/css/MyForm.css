@@ -1,0 +1,28 @@
+#div1 {
+	width: 310px;
+	margin: auto;
+}
+#formDiv {
+		width: 310px;
+		border: 1px solid #337ab7;
+		padding: 6px;
+		border-radius: 7px;
+		box-shadow: 2px 2px #337ab7;
+		
+}
+#form1 {
+	
+}
+.form-control {
+	height: 30px;
+	width: auto;
+}
+.labelSpan {
+	padding: 6px;
+	
+}
+
+#heading1 h3{
+	text-align: left;
+	padding-left: 10px;
+}
